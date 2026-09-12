@@ -9,4 +9,5 @@ An end-to-end machine learning project for the 2026 Bamboo Summer AI Competition
 ## How to Run
 1. Place `train.csv`, `test.csv`, and `sample_submission.csv` in the data directory.
 2. Run the pipeline script:
+   ```bash
    python 02_pipeline.py
